@@ -48,10 +48,4 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote">
 </div>
 
----
-
-<div align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=maragramonte&icon=0&color=0a192f" alt="Visit Count"></a>
-</div>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
