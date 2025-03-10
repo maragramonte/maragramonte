@@ -1,6 +1,5 @@
+![Animación](https://media.giphy.com/media/xT0xeADNkaq35EqfoA/giphy.gif?cid=ecf05e47fyzgts3b91zie9iexmrkq41woliboo5e9lim50za&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 # 💫 About Me
-![Animación](https://media.giphy.com/media/l0JMaNj0xZ6cDFLvq/giphy.gif?cid=ecf05e471oevb5litzpn5svply5c8kwixy5ozg29m9a6jtxr&ep=v1_gifs_search&rid=giphy.gif&ct=g)
-
 ## ¡Hola! Soy Mar Agramonte 👋🏾<br>
 
 ### 📱 Enlaces de Contacto:<br>
@@ -16,10 +15,11 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=maragramonte&theme=nightowl&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=maragramonte&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍🏾 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=maragramonte&icon=0&color=6)](https://visitcount.itsvg.in)
+
+[![](https://visitcount.itsvg.in/api?id=maragramonte&icon=0&color=0a192f)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
