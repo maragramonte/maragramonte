@@ -10,7 +10,7 @@
 ### 📱 Enlaces de Contacto:
 ¡No dudes en contactarme si quieres colaborar o conocerme mejor!
 
-#### 🌐 Socials:
+### 🌐 Socials:
 <div align="center">
   <a href="https://discord.gg/m.agramonte01"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"></a>
   <a href="https://www.instagram.com/_marchu_2001?igsh=MXRsM3ExMzUxY2Fjbg=="><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
@@ -19,7 +19,7 @@
 
 ---
 
-# 💻 Tech Stack:
+### 💻 Tech Stack:
 <div align="center">
   <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
@@ -35,7 +35,7 @@
 
 ---
 
-# 📊 GitHub Stats:
+### 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maragramonte&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats"><br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=maragramonte&theme=nightowl&hide_border=true" alt="GitHub Streak"><br/>
