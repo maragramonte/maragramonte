@@ -13,6 +13,7 @@
 #### 🌐 Socials:
 <div align="center">
   <a href="https://discord.gg/m.agramonte01"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://www.instagram.com/_marchu_2001?igsh=MXRsM3ExMzUxY2Fjbg=="><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://www.instagram.com/m.agramonte_?igsh=Nms5cmwzOGlxeHkx"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
 </div>
 
