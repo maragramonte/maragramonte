@@ -1,7 +1,7 @@
 <!-- ...existing code... -->
 
 <div align="center">
-  <img src="https://media.giphy.com/media/xT0xeADNkaq35EqfoA/giphy.gif?cid=ecf05e47fyzgts3b91zie9iexmrkq41woliboo5e9lim50za&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Animación">
+  <img src="https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif?cid=ecf05e475krfqerfuotvqoamjmhtw1rj9e3jbx9ar27v0qny&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Animación">
 </div>
 
 # 💫 About Me
