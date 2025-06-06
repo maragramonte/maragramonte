@@ -15,6 +15,8 @@
   <a href="https://discord.gg/m.agramonte01"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"></a>
   <a href="https://www.instagram.com/_marchu_2001?igsh=MXRsM3ExMzUxY2Fjbg=="><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://www.instagram.com/m.agramonte_?igsh=Nms5cmwzOGlxeHkx"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
+  <a href="linkedin.com/in/mar-agramonte-9b9644367"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="[https://profile.indeed.com/tuperfil](https://profile.indeed.com/?hl=es_ES&co=ES&from=gnav-notifcenter)"><img src="https://img.shields.io/badge/Indeed-%230078FF.svg?logo=indeed&logoColor=white" alt="Indeed"></a>
 </div>
 
 ---
