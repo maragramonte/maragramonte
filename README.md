@@ -12,8 +12,8 @@
 
 - 📍 Palma de Mallorca
 - 🎂 23 años
-- 🌱 Aprendiendo: Java · JavaScript · HTML · CSS · XML · Latex · Overleaf
-- ✨ Intereses: Tecnología, atención al cliente, proyectos con impacto social
+- 🌱 Aprendiendo: Java · JavaScript · HTML · CSS · XML · Latex 
+- ✨ Intereses: Tecnología, fotografía, proyectos con impacto social
 
 ---
 
