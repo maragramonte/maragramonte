@@ -11,7 +11,7 @@
 ¡Hola! Soy Mar Agramonte, profesional administrativa con experiencia en atención al cliente y recepción hotelera, actualmente expandiendo mis habilidades en desarrollo de software.
 
 - 📍 Palma de Mallorca
-- 🎂 23 años
+- 🎂 24 años
 - 🌱 Aprendiendo: Java · JavaScript · HTML · CSS · XML · Latex 
 - ✨ Intereses: Tecnología, fotografía, proyectos con impacto social
 
