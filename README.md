@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif" width="200" alt="Coding GIF">
   <h1>Mar Agramonte Campos</h1>
-  <h3>Desarrolladora en formación | Aspiring Software Developer</h3>
+  <h3>Desarrolladora Full Stack · Graduada en DAM | Full Stack Developer</h3>
   <p>Palma de Mallorca, Spain · Open to Remote Opportunities</p>
 </div>
 
@@ -10,14 +10,13 @@
 ## 👩‍💻 Sobre mí | About Me
 
 **ES:**  
-Profesional administrativa con experiencia en atención al cliente y recepción hotelera, actualmente en transición hacia el desarrollo de software. Combino pensamiento estructurado, orientación al detalle y enfoque en soluciones prácticas.
+Graduada en DAM con experiencia práctica en testing de APIs, validaciones E2E, bases de datos y desarrollo de software. Tras varios años en administración, turismo y recursos humanos, reorienté mi carrera hacia la tecnología. Aporto pensamiento estructurado, orientación al detalle y enfoque en crear software útil, mantenible y de calidad.
 
 **EN:**  
-Administrative professional transitioning into software development. I combine structured thinking, attention to detail, and a solution-oriented mindset to build reliable digital products.
+Software Development graduate (DAM) with hands-on experience in API testing, E2E validation, databases and software development. After several years in administration, tourism and HR, I shifted my career into tech. I bring structured thinking, attention to detail, and a focus on building useful, maintainable, quality software.
 
 - 📍 Palma de Mallorca, Spain  
-- 🎂 24 years old  
-- 🌱 Aprendiendo / Learning: Java · JavaScript · HTML · CSS · XML · LaTeX  
+- 🌱 Aprendiendo / Learning: Java · Python · Docker · LaTeX  
 - ✨ Intereses / Interests: Tecnología · Fotografía · Social impact projects  
 
 ---
@@ -49,6 +48,7 @@ Administrative professional transitioning into software development. I combine s
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white"/>
 </div>
@@ -86,18 +86,21 @@ Customer service · Clear communication · Problem solving · Multitasking organ
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maragramonte&theme=tokyonight&show_icons=true&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maragramonte&theme=tokyonight&layout=compact&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maragramonte&theme=tokyonight&hide_border=true" width="98%" />
+  <img src="https://streak-stats.demolab.com/?user=maragramonte&theme=tokyonight&hide_border=true" width="98%" />
 </div>
 
 ---
 
 ## ✨ Proyectos Destacados | Featured Projects
 
-**ES:**  
-Próximamente compartiré proyectos personales y académicos enfocados en desarrollo backend, aplicaciones conectadas a bases de datos y automatización de tareas.
+**🖥️ Portfolio personal** · React + Vite — diseño responsive con temas día/noche.  
+🔗 [Ver en vivo](https://maragramonte.github.io/mi-portfolio/) · [Código](https://github.com/maragramonte/mi-portfolio)
 
-**EN:**  
-Upcoming personal and academic projects focused on backend development, database-driven applications, and task automation.
+**🩺 Web Dr. Agramonte** · Sitio para un especialista en Medicina Interna: servicios, reserva de citas, telemedicina y soporte multiidioma (ES/CA).  
+🔗 [Ver sitio](https://www.dragramonte.com/)
+
+**📄 Un paseo por Asia (LaTeX)** · Documento técnico en LaTeX: secciones, tablas, fórmulas, referencias cruzadas y bibliografía.  
+🔗 [Ver documento](https://www.overleaf.com/read/hyqnjmbrhknh#831915)
 
 ---
 
@@ -114,17 +117,17 @@ To secure a junior developer position where I can contribute structured, maintai
 ## 📩 Contacto | Contact
 
 <div align="center">
+  <a href="mailto:agramontemar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
   <a href="https://www.linkedin.com/in/mar-agramonte-9b9644367/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.indeed.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white"/>
+  <a href="https://github.com/maragramonte" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/m.agramonte_?igsh=Nms5cmwzOGlxeHkx" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://discord.gg/m.agramonte01" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </div>
 
