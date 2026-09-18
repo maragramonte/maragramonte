@@ -83,9 +83,9 @@ Customer service · Clear communication · Problem solving · Multitasking organ
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maragramonte&theme=tokyonight&show_icons=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maragramonte&theme=tokyonight&layout=compact&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=maragramonte&theme=tokyonight&hide_border=true" width="98%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maragramonte&theme=tokyonight" width="48%" alt="Estadisticas de GitHub" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maragramonte&theme=tokyonight" width="48%" alt="Lenguajes mas usados" />
+  <img src="https://streak-stats.demolab.com/?user=maragramonte&theme=tokyonight&hide_border=true" width="98%" alt="Racha de contribuciones" />
 </div>
 
 ---
