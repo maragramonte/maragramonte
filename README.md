@@ -48,7 +48,6 @@ Software Development graduate (DAM) with hands-on experience in API testing, E2E
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white"/>
 </div>
@@ -68,16 +67,16 @@ Customer service · Clear communication · Problem solving · Multitasking organ
 ## 🚀 Enfoque Actual | Current Focus
 
 **ES:**  
-- Programación Orientada a Objetos (Java)  
-- Integración con bases de datos  
-- Lógica backend  
-- Buenas prácticas con Git  
+- Desarrollo backend con Java y POO  
+- Diseño e integración de bases de datos (SQL / NoSQL)  
+- Testing de APIs y validaciones E2E  
+- Buenas prácticas con Git y control de versiones  
 
 **EN:**  
-- Object-Oriented Programming (Java)  
-- Database integration  
-- Backend logic  
-- Git workflow best practices  
+- Backend development with Java and OOP  
+- Database design and integration (SQL / NoSQL)  
+- API testing and E2E validation  
+- Git and version control best practices  
 
 ---
 
