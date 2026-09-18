@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif" width="200" alt="Coding GIF">
   <h1>Mar Agramonte Campos</h1>
-  <h3>Desarrolladora Full Stack · Graduada en DAM | Full Stack Developer</h3>
+  <h3>Desarrolladora Backend Junior · Graduada en DAM | Junior Backend Developer</h3>
   <p>Palma de Mallorca, Spain · Open to Remote Opportunities</p>
 </div>
 
@@ -16,7 +16,7 @@ Graduada en DAM con experiencia práctica en testing de APIs, validaciones E2E, 
 Software Development graduate (DAM) with hands-on experience in API testing, E2E validation, databases and software development. After several years in administration, tourism and HR, I shifted my career into tech. I bring structured thinking, attention to detail, and a focus on building useful, maintainable, quality software.
 
 - 📍 Palma de Mallorca, Spain  
-- 🌱 Aprendiendo / Learning: Java · Python · Docker · LaTeX  
+- 🌱 Aprendiendo / Learning: LaTeX  
 - ✨ Intereses / Interests: Tecnología · Fotografía · Social impact projects  
 
 ---
@@ -97,7 +97,7 @@ Customer service · Clear communication · Problem solving · Multitasking organ
 🔗 [Ver en vivo](https://maragramonte.github.io/mi-portfolio/) · [Código](https://github.com/maragramonte/mi-portfolio)
 
 **🩺 Web Dr. Agramonte** · Sitio para un especialista en Medicina Interna: servicios, reserva de citas, telemedicina y soporte multiidioma (ES/CA).  
-🔗 [Ver sitio](https://www.dragramonte.com/)
+🔗 [Código](https://github.com/maragramonte/dr-agramonte)
 
 **📄 Un paseo por Asia (LaTeX)** · Documento técnico en LaTeX: secciones, tablas, fórmulas, referencias cruzadas y bibliografía.  
 🔗 [Ver documento](https://www.overleaf.com/read/hyqnjmbrhknh#831915)
