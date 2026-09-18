@@ -92,11 +92,11 @@ Customer service · Clear communication · Problem solving · Multitasking organ
 
 ## ✨ Proyectos Destacados | Featured Projects
 
-**🖥️ Portfolio personal** · React + Vite — diseño responsive con temas día/noche.  
-🔗 [Ver en vivo](https://maragramonte.github.io/mi-portfolio/) · [Código](https://github.com/maragramonte/mi-portfolio)
-
 **🩺 Web Dr. Agramonte** · Sitio para un especialista en Medicina Interna: servicios, reserva de citas, telemedicina y soporte multiidioma (ES/CA).  
 🔗 [Código](https://github.com/maragramonte/dr-agramonte)
+
+**🖥️ Portfolio personal** · React + Vite — diseño responsive con temas día/noche.  
+🔗 [Ver en vivo](https://maragramonte.github.io/mi-portfolio/) · [Código](https://github.com/maragramonte/mi-portfolio)
 
 **📄 Un paseo por Asia (LaTeX)** · Documento técnico en LaTeX: secciones, tablas, fórmulas, referencias cruzadas y bibliografía.  
 🔗 [Ver documento](https://www.overleaf.com/read/hyqnjmbrhknh#831915)
