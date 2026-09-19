@@ -183,9 +183,6 @@ To secure a junior backend developer or QA automation position where I can contr
 <a href="https://github.com/maragramonte" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://www.instagram.com/m.agramonte_?igsh=Nms5cmwzOGlxeHkx" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
 </div>
 
 ---
