@@ -23,11 +23,17 @@ Software Development graduate (DAM). My final-year project didn't stay in the cl
 
 ## 💼 Experiencia | Experience
 
-**Marlink Group (OmniAccess)** · Prácticas en IT — Desarrollo y QA Testing · Enero 2026 – Marzo 2026 · 400 horas
-Pruebas funcionales de APIs, validaciones End-to-End, scripts en Python para automatización y consulta de bases de datos (SQL, MongoDB) con Docker/WSL, dentro de un marco ágil a gran escala (SAFe). Documentación técnica en Confluence y gestión de tareas en Jira.
+**Marlink Group (OmniAccess)** · Prácticas en IT — Desarrollo y QA Testing / IT Internship — Development & QA Testing · Enero 2026 – Marzo 2026 / January 2026 – March 2026 · 400 horas / 400 hours
 
-**GladToLink** · Prácticas en Consultoría Tecnológica · Febrero 2025 · 100 horas
-Maquetación de formularios en XML y aplicación de Java para botones e interacciones, dentro de procesos de digitalización de clientes.
+ES: Pruebas funcionales de APIs, validaciones End-to-End, scripts en Python para automatización y consulta de bases de datos (SQL, MongoDB) con Docker/WSL, dentro de un marco ágil a gran escala (SAFe). Documentación técnica en Confluence y gestión de tareas en Jira.
+
+EN: Functional API testing, End-to-End validations, Python scripts for automation and database querying (SQL, MongoDB) with Docker/WSL, within a large-scale agile framework (SAFe). Technical documentation in Confluence and task management in Jira.
+
+**GladToLink** · Prácticas en Consultoría Tecnológica / Technology Consulting Internship · Febrero 2025 / February 2025 · 100 horas / 100 hours
+
+ES: Maquetación de formularios en XML y aplicación de Java para botones e interacciones, dentro de procesos de digitalización de clientes.
+
+EN: XML form markup and a Java application for buttons and interactions, as part of client digitization processes.
 
 ---
 
@@ -121,14 +127,29 @@ Customer service · Clear communication · Problem solving · Multitasking organ
 
 ## ✨ Proyectos Destacados | Featured Projects
 
-**🩺 Web Dr. Agramonte** · Aplicación de gestión de citas para un internista real en Palma. Backend en Java 21 + Spring Boot 3.5, autenticación JWT y migraciones con Flyway. Bloqueo pesimista y pruebas de concurrencia para evitar la doble reserva del mismo hueco. CI/CD con GitHub Actions, despliegue con Docker Compose y Caddy (HTTPS automático), notificaciones a pacientes vía Twilio y Telegram.
-🔗 [Código](https://github.com/maragramonte/dr-agramonte)
+**🩺 Web Dr. Agramonte**
 
-**🖥️ Portfolio personal** · React + Vite — diseño responsive con temas día/noche.
-🔗 [Ver en vivo](https://maragramonte.github.io/mi-portfolio/) · [Código](https://github.com/maragramonte/mi-portfolio)
+ES: Aplicación de gestión de citas para un internista real en Palma. Backend en Java 21 + Spring Boot 3.5, autenticación JWT y migraciones con Flyway. Bloqueo pesimista y pruebas de concurrencia para evitar la doble reserva del mismo hueco. CI/CD con GitHub Actions, despliegue con Docker Compose y Caddy (HTTPS automático), notificaciones a pacientes vía Twilio y Telegram.
 
-**📄 Un paseo por Asia (LaTeX)** · Documento técnico en LaTeX: secciones, tablas, fórmulas, referencias cruzadas y bibliografía.
-🔗 [Ver documento](https://www.overleaf.com/read/hyqnjmbrhknh#831915)
+EN: Appointment management app for a real internist in Palma. Backend in Java 21 + Spring Boot 3.5, JWT authentication and Flyway migrations. Pessimistic locking and concurrency tests to prevent double-booking the same slot. CI/CD with GitHub Actions, deployment with Docker Compose and Caddy (automatic HTTPS), patient notifications via Twilio and Telegram.
+
+🔗 [Código / Code](https://github.com/maragramonte/dr-agramonte)
+
+**🖥️ Portfolio personal**
+
+ES: React + Vite — diseño responsive con temas día/noche.
+
+EN: React + Vite — responsive design with day/night themes.
+
+🔗 [Ver en vivo / Live demo](https://maragramonte.github.io/mi-portfolio/) · [Código / Code](https://github.com/maragramonte/mi-portfolio)
+
+**📄 Un paseo por Asia (LaTeX)**
+
+ES: Documento técnico en LaTeX: secciones, tablas, fórmulas, referencias cruzadas y bibliografía.
+
+EN: Technical document in LaTeX: sections, tables, formulas, cross-references and bibliography.
+
+🔗 [Ver documento / View document](https://www.overleaf.com/read/hyqnjmbrhknh#831915)
 
 ---
 
