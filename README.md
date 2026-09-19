@@ -135,6 +135,14 @@ EN: Appointment management app for a real internist in Palma. Backend in Java 21
 
 🔗 [Código / Code](https://github.com/maragramonte/dr-agramonte)
 
+**💊 Farmàcia Agramonte — web**
+
+ES: Web de la farmacia familiar (El Born, Barcelona). Sitio estático en HTML/CSS sin frameworks ni build, con catálogo de producto generado en Python a partir de un JSON y un script de importación desde el programa de gestión de la farmacia (CSV de Farmatic/Unycop). Cumple la normativa española de parafarmacia: sin medicamentos en el catálogo y sin precios expuestos al público. Despliegue automático con GitHub Pages.
+
+EN: Website for the family pharmacy (El Born, Barcelona). A static HTML/CSS site with no framework or build step, with a Python-generated product catalog from JSON and a CSV import script from the pharmacy's management software (Farmatic/Unycop). Built to comply with Spanish parapharmacy regulations: no medications in the catalog and no exposed prices. Automatic deployment via GitHub Pages.
+
+🔗 [Ver en vivo / Live demo](https://maragramonte.github.io/Farmacia-Agramonte/) · [Código / Code](https://github.com/maragramonte/Farmacia-Agramonte)
+
 **🖥️ Portfolio personal**
 
 ES: React + Vite — diseño responsive con temas día/noche.
