@@ -133,7 +133,7 @@ ES: Aplicación de gestión de citas para un internista real en Palma. Backend e
 
 EN: Appointment management app for a real internist in Palma. Backend in Java 21 + Spring Boot 3.5, JWT authentication and Flyway migrations. Pessimistic locking and concurrency tests to prevent double-booking the same slot. CI/CD with GitHub Actions, deployment with Docker Compose and Caddy (automatic HTTPS), patient notifications via Twilio and Telegram.
 
-🔗 [Código / Code](https://github.com/maragramonte/dr-agramonte)
+🔗 [Ver en vivo / Live demo](https://maragramonte.github.io/dr-agramonte/) · [Código / Code](https://github.com/maragramonte/dr-agramonte)
 
 **💊 Farmàcia Agramonte — web**
 
