@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif" width="200" alt="Coding GIF">
   <h1>Mar Agramonte Campos</h1>
   <h3>Desarrolladora Backend Junior · Java · Spring Boot · PostgreSQL · Docker | QA & Automatización con Python | DAM</h3>
-  <p>Palma de Mallorca, Spain · Open to Remote Opportunities</p>
+  <p>Palma de Mallorca, Spain · Remote / Hybrid · Open to relocation</p>
 </div>
 
 ---
@@ -16,8 +16,35 @@ Graduada en DAM. Mi proyecto de fin de ciclo no se quedó en el aula: es una apl
 Software Development graduate (DAM). My final-year project didn't stay in the classroom: it's an appointment management app for a real internist in Palma — backend in Java 21 and Spring Boot 3.5 on PostgreSQL, with JWT authentication, versioned Flyway migrations and Docker Compose deployment. The detail that taught me the most: preventing two patients from booking the same slot, solved with pessimistic database locking and validated with a real concurrency test. Before that, 400 hours interning at Marlink Group: API testing, E2E validation and Python automation in a SAFe environment. I come from administration, tourism and HR, and that background gave me structured thinking and attention to detail.
 
 - 📍 Palma de Mallorca, Spain
-- 🌱 Aprendiendo / Learning: LaTeX
 - ✨ Intereses / Interests: Tecnología · Fotografía · Social impact projects
+
+---
+
+## ✨ Proyectos Destacados | Featured Projects
+
+**🩺 Web Dr. Agramonte**
+
+ES: Aplicación de gestión de citas para un internista real en Palma. Backend en Java 21 + Spring Boot 3.5, autenticación JWT y migraciones con Flyway. Bloqueo pesimista y pruebas de concurrencia para evitar la doble reserva del mismo hueco. CI/CD con GitHub Actions, despliegue con Docker Compose y Caddy (HTTPS automático), notificaciones a pacientes vía Twilio y Telegram.
+
+EN: Appointment management app for a real internist in Palma. Backend in Java 21 + Spring Boot 3.5, JWT authentication and Flyway migrations. Pessimistic locking and concurrency tests to prevent double-booking the same slot. CI/CD with GitHub Actions, deployment with Docker Compose and Caddy (automatic HTTPS), patient notifications via Twilio and Telegram.
+
+🔗 [Ver en vivo / Live demo](https://maragramonte.github.io/dr-agramonte/) · [Código / Code](https://github.com/maragramonte/dr-agramonte)
+
+**💊 Farmàcia Agramonte — web**
+
+ES: Web de la farmacia familiar (El Born, Barcelona). Sitio estático en HTML/CSS sin frameworks ni build, con catálogo de producto generado en Python a partir de un JSON y un script de importación desde el programa de gestión de la farmacia (CSV de Farmatic/Unycop). Cumple la normativa española de parafarmacia: sin medicamentos en el catálogo y sin precios expuestos al público. Despliegue automático con GitHub Pages.
+
+EN: Website for the family pharmacy (El Born, Barcelona). A static HTML/CSS site with no framework or build step, with a Python-generated product catalog from JSON and a CSV import script from the pharmacy's management software (Farmatic/Unycop). Built to comply with Spanish parapharmacy regulations: no medications in the catalog and no exposed prices. Automatic deployment via GitHub Pages.
+
+🔗 [Ver en vivo / Live demo](https://maragramonte.github.io/Farmacia-Agramonte/) · [Código / Code](https://github.com/maragramonte/Farmacia-Agramonte)
+
+**🖥️ Portfolio personal**
+
+ES: React + Vite — diseño responsive con temas día/noche.
+
+EN: React + Vite — responsive design with day/night themes.
+
+🔗 [Ver en vivo / Live demo](https://maragramonte.github.io/mi-portfolio/) · [Código / Code](https://github.com/maragramonte/mi-portfolio)
 
 ---
 
@@ -89,16 +116,6 @@ EN: XML form markup and a Java application for buttons and interactions, as part
 
 ---
 
-## 🧠 Competencias Profesionales | Professional Skills
-
-**ES:**
-Atención al cliente · Comunicación efectiva · Resolución de problemas · Organización multitarea · Adaptabilidad · Trabajo en equipo
-
-**EN:**
-Customer service · Clear communication · Problem solving · Multitasking organization · Adaptability · Teamwork
-
----
-
 ## 🚀 Enfoque Actual | Current Focus
 
 **ES:**
@@ -115,59 +132,13 @@ Customer service · Clear communication · Problem solving · Multitasking organ
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maragramonte&theme=tokyonight" width="48%" alt="Estadisticas de GitHub" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maragramonte&theme=tokyonight" width="48%" alt="Lenguajes mas usados" />
-<img src="https://streak-stats.demolab.com/?user=maragramonte&theme=tokyonight&hide_border=true&cb=2026" width="98%" alt="Racha de contribuciones" />
-</div>
-
----
-
-## ✨ Proyectos Destacados | Featured Projects
-
-**🩺 Web Dr. Agramonte**
-
-ES: Aplicación de gestión de citas para un internista real en Palma. Backend en Java 21 + Spring Boot 3.5, autenticación JWT y migraciones con Flyway. Bloqueo pesimista y pruebas de concurrencia para evitar la doble reserva del mismo hueco. CI/CD con GitHub Actions, despliegue con Docker Compose y Caddy (HTTPS automático), notificaciones a pacientes vía Twilio y Telegram.
-
-EN: Appointment management app for a real internist in Palma. Backend in Java 21 + Spring Boot 3.5, JWT authentication and Flyway migrations. Pessimistic locking and concurrency tests to prevent double-booking the same slot. CI/CD with GitHub Actions, deployment with Docker Compose and Caddy (automatic HTTPS), patient notifications via Twilio and Telegram.
-
-🔗 [Ver en vivo / Live demo](https://maragramonte.github.io/dr-agramonte/) · [Código / Code](https://github.com/maragramonte/dr-agramonte)
-
-**💊 Farmàcia Agramonte — web**
-
-ES: Web de la farmacia familiar (El Born, Barcelona). Sitio estático en HTML/CSS sin frameworks ni build, con catálogo de producto generado en Python a partir de un JSON y un script de importación desde el programa de gestión de la farmacia (CSV de Farmatic/Unycop). Cumple la normativa española de parafarmacia: sin medicamentos en el catálogo y sin precios expuestos al público. Despliegue automático con GitHub Pages.
-
-EN: Website for the family pharmacy (El Born, Barcelona). A static HTML/CSS site with no framework or build step, with a Python-generated product catalog from JSON and a CSV import script from the pharmacy's management software (Farmatic/Unycop). Built to comply with Spanish parapharmacy regulations: no medications in the catalog and no exposed prices. Automatic deployment via GitHub Pages.
-
-🔗 [Ver en vivo / Live demo](https://maragramonte.github.io/Farmacia-Agramonte/) · [Código / Code](https://github.com/maragramonte/Farmacia-Agramonte)
-
-**🖥️ Portfolio personal**
-
-ES: React + Vite — diseño responsive con temas día/noche.
-
-EN: React + Vite — responsive design with day/night themes.
-
-🔗 [Ver en vivo / Live demo](https://maragramonte.github.io/mi-portfolio/) · [Código / Code](https://github.com/maragramonte/mi-portfolio)
-
-**📄 Un paseo por Asia (LaTeX)**
-
-ES: Documento técnico en LaTeX: secciones, tablas, fórmulas, referencias cruzadas y bibliografía.
-
-EN: Technical document in LaTeX: sections, tables, formulas, cross-references and bibliography.
-
-🔗 [Ver documento / View document](https://www.overleaf.com/read/hyqnjmbrhknh#831915)
-
----
-
 ## 🎯 Objetivo Profesional | Career Objective
 
 **ES:**
-Incorporarme como desarrolladora backend junior o en automatización de QA donde pueda aportar código estructurado, seguir creciendo técnicamente y contribuir en proyectos reales, preferiblemente en Palma o en remoto.
+Incorporarme como desarrolladora backend junior o en automatización de QA donde pueda aportar código estructurado, seguir creciendo técnicamente y contribuir en proyectos reales, preferiblemente en remoto o híbrido. Abierta a trasladarme fuera de Mallorca con apoyo de la empresa en la reubicación.
 
 **EN:**
-To secure a junior backend developer or QA automation position where I can contribute structured, maintainable code while continuing to grow technically, preferably in Palma or remote.
+To secure a junior backend developer or QA automation position where I can contribute structured, maintainable code while continuing to grow technically, ideally remote or hybrid. Open to relocating outside Mallorca with relocation support from the company.
 
 ---
 
@@ -184,15 +155,3 @@ To secure a junior backend developer or QA automation position where I can contr
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </div>
-
----
-
-## 🧠 Dev Quote
-
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
----
-
-<!-- Built with structure, intention and caffeine -->
