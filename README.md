@@ -1,157 +1,77 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif" width="200" alt="Coding GIF">
-  <h1>Mar Agramonte Campos</h1>
-  <h3>Desarrolladora Backend Junior · Java · Spring Boot · PostgreSQL · Docker | QA & Automatización con Python | DAM</h3>
-  <p>Palma de Mallorca, Spain · Remote / Hybrid · Open to relocation</p>
-</div>
+<p align="center">
+  <img src="assets/banner.jpg" alt="Catedral de Mallorca" width="100%">
+</p>
 
----
+<h1 align="center">Mar Agramonte</h1>
 
-## 👩‍💻 Sobre mí | About Me
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=5000&pause=1800&color=2563EB&center=true&vCenter=true&width=650&height=40&cursor=false&lines=Backend+con+Java+y+Spring+Boot;QA+con+400+h+en+entornos+reales;Del+mostrador+al+backend" alt="Backend con Java y Spring Boot · QA con 400 h en entornos reales · Del mostrador al backend">
+</p>
 
-**ES:**
-Graduada en DAM. Mi proyecto de fin de ciclo no se quedó en el aula: es una aplicación de gestión de citas para un internista real en Palma — backend en Java 21 y Spring Boot 3.5 sobre PostgreSQL, con autenticación JWT, migraciones versionadas en Flyway y despliegue con Docker Compose. El detalle que más me enseñó: impedir que dos pacientes reservaran el mismo hueco, resuelto con bloqueo pesimista en base de datos y validado con un test de concurrencia real. Antes de eso, 400 horas de prácticas en Marlink Group: testing de APIs, validaciones E2E y automatización con Python en un entorno SAFe. Vengo de administración, turismo y recursos humanos, y esa base me dio pensamiento estructurado y atención al detalle.
+Desarrolladora backend junior y QA Automation: construyo servicios con Java y Spring Boot, y automatizo pruebas con Python.  
+Busco oportunidades en Palma de Mallorca o en remoto.
 
-**EN:**
-Software Development graduate (DAM). My final-year project didn't stay in the classroom: it's an appointment management app for a real internist in Palma — backend in Java 21 and Spring Boot 3.5 on PostgreSQL, with JWT authentication, versioned Flyway migrations and Docker Compose deployment. The detail that taught me the most: preventing two patients from booking the same slot, solved with pessimistic database locking and validated with a real concurrency test. Before that, 400 hours interning at Marlink Group: API testing, E2E validation and Python automation in a SAFe environment. I come from administration, tourism and HR, and that background gave me structured thinking and attention to detail.
+## Del mostrador al backend
 
-- 📍 Palma de Mallorca, Spain
-- ✨ Intereses / Interests: Tecnología · Fotografía · Social impact projects
+Tras trabajar en administración, hostelería y atención al cliente —incluido un hotel en Irlanda—, me formé en DAM en CESUR (2024–2026). Esa experiencia me ayuda a entender a los usuarios, comunicarme con claridad y trabajar bajo presión. En Marlink Group completé 400 horas de prácticas en pruebas de API y E2E y automatización con Python.
 
----
+## Proyectos
 
-## ✨ Proyectos Destacados | Featured Projects
+### [Dr. Agramonte](https://github.com/maragramonte/dr-agramonte)
 
-**🩺 Web Dr. Agramonte**
+<p align="center"><a href="https://maragramonte.github.io/dr-agramonte/"><img src="assets/projects/dr-agramonte.jpg" alt="Página de inicio y agenda de reservas de Dr. Agramonte" width="900"></a></p>
 
-ES: Aplicación de gestión de citas para un internista real en Palma. Backend en Java 21 + Spring Boot 3.5, autenticación JWT y migraciones con Flyway. Bloqueo pesimista y pruebas de concurrencia para evitar la doble reserva del mismo hueco. CI/CD con GitHub Actions, despliegue con Docker Compose y Caddy (HTTPS automático), notificaciones a pacientes vía Twilio y Telegram.
+Aplicación de citas para un internista en Palma. Backend con Java 21, Spring Boot 3.5, PostgreSQL, JWT y Flyway. El bloqueo pesimista y una prueba de concurrencia protegen la reserva de cada cita.
 
-EN: Appointment management app for a real internist in Palma. Backend in Java 21 + Spring Boot 3.5, JWT authentication and Flyway migrations. Pessimistic locking and concurrency tests to prevent double-booking the same slot. CI/CD with GitHub Actions, deployment with Docker Compose and Caddy (automatic HTTPS), patient notifications via Twilio and Telegram.
+- 115 pruebas unitarias, de API y con Testcontainers.
+- Integración continua con GitHub Actions.
+- [Demo](https://maragramonte.github.io/dr-agramonte/)
 
-🔗 [Ver en vivo / Live demo](https://maragramonte.github.io/dr-agramonte/) · [Código / Code](https://github.com/maragramonte/dr-agramonte)
+### [Farmàcia Agramonte](https://github.com/maragramonte/Farmacia-Agramonte)
 
-**💊 Farmàcia Agramonte — web**
+<p align="center"><a href="https://maragramonte.github.io/Farmacia-Agramonte/"><img src="assets/projects/farmacia-agramonte.jpg" alt="Página principal de Farmàcia Agramonte" width="900"></a></p>
 
-ES: Web de la farmacia familiar (El Born, Barcelona). Sitio estático en HTML/CSS sin frameworks ni build, con catálogo de producto generado en Python a partir de un JSON y un script de importación desde el programa de gestión de la farmacia (CSV de Farmatic/Unycop). Cumple la normativa española de parafarmacia: sin medicamentos en el catálogo y sin precios expuestos al público. Despliegue automático con GitHub Pages.
+Web real para una farmacia. Un generador en Python crea 190 páginas en tres idiomas; incluye importación de catálogo desde CSV y trabajo de SEO técnico.
 
-EN: Website for the family pharmacy (El Born, Barcelona). A static HTML/CSS site with no framework or build step, with a Python-generated product catalog from JSON and a CSV import script from the pharmacy's management software (Farmatic/Unycop). Built to comply with Spanish parapharmacy regulations: no medications in the catalog and no exposed prices. Automatic deployment via GitHub Pages.
+- [Web](https://maragramonte.github.io/Farmacia-Agramonte/)
 
-🔗 [Ver en vivo / Live demo](https://maragramonte.github.io/Farmacia-Agramonte/) · [Código / Code](https://github.com/maragramonte/Farmacia-Agramonte)
+### [Portfolio](https://maragramonte.github.io/mi-portfolio/)
 
-**🖥️ Portfolio personal**
+Portfolio personal desarrollado con React y Vite, con diseño adaptable y temas claro y oscuro.
 
-ES: React + Vite — diseño responsive con temas día/noche.
+## Experiencia
 
-EN: React + Vite — responsive design with day/night themes.
+**Marlink Group (OmniAccess) · Prácticas de desarrollo y QA** — ene–mar 2026 · 400 h  
+Pruebas de API y E2E, scripts Python para consultar SQL y MongoDB en Docker, y trabajo con SAFe, Jira y Confluence.
 
-🔗 [Ver en vivo / Live demo](https://maragramonte.github.io/mi-portfolio/) · [Código / Code](https://github.com/maragramonte/mi-portfolio)
+**GladToLink · Prácticas de consultoría tecnológica** — feb 2025 · 100 h  
+Maquetación de formularios XML y desarrollo de interacciones con Java para procesos de digitalización.
 
----
+## Stack
 
-## 💼 Experiencia | Experience
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4169E1?logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?logo=spring&logoColor=white) ![REST](https://img.shields.io/badge/REST-6BA539?logo=openapiinitiative&logoColor=white) ![Flyway](https://img.shields.io/badge/Flyway-CC0200?logo=flyway&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![JUnit](https://img.shields.io/badge/JUnit-25A162?logo=junit5&logoColor=white) ![Testcontainers](https://img.shields.io/badge/Testcontainers-25A162?logo=testcontainers&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![Odoo](https://img.shields.io/badge/Odoo-714B67?logo=odoo&logoColor=white)
 
-**Marlink Group (OmniAccess)** · Prácticas en IT — Desarrollo y QA Testing / IT Internship — Development & QA Testing · Enero 2026 – Marzo 2026 / January 2026 – March 2026 · 400 horas / 400 hours
+También trabajo con Git, HTML, CSS, XML, SQLite, DBeaver y Docker Compose. Conozco Scrum, Kanban y SAFe; he utilizado Jira y Confluence.
 
-ES: Pruebas funcionales de APIs, validaciones End-to-End, scripts en Python para automatización y consulta de bases de datos (SQL, MongoDB) con Docker/WSL, dentro de un marco ágil a gran escala (SAFe). Documentación técnica en Confluence y gestión de tareas en Jira.
+**Aprendiendo ahora:** Playwright, para ampliar mi práctica de automatización de pruebas.
 
-EN: Functional API testing, End-to-End validations, Python scripts for automation and database querying (SQL, MongoDB) with Docker/WSL, within a large-scale agile framework (SAFe). Technical documentation in Confluence and task management in Jira.
+## Formación e idiomas
 
-**GladToLink** · Prácticas en Consultoría Tecnológica / Technology Consulting Internship · Febrero 2025 / February 2025 · 100 horas / 100 hours
+- **Técnica Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** · CESUR · 2024–2026
+- Español y catalán: nativos · Inglés: B2 (experiencia laboral en Irlanda)
 
-ES: Maquetación de formularios en XML y aplicación de Java para botones e interacciones, dentro de procesos de digitalización de clientes.
+## Contacto
 
-EN: XML form markup and a Java application for buttons and interactions, as part of client digitization processes.
+[LinkedIn](https://www.linkedin.com/in/maragramonte/) · [Portfolio](https://maragramonte.github.io/mi-portfolio/) · [Email](mailto:agramontecampos01@gmail.com)
 
----
+CV técnico: pendiente de añadir enlace público.
 
-## 🛠 Stack Técnico | Technical Stack
+<details>
+<summary>Trayectoria anterior</summary>
 
-### 💻 Lenguajes | Programming Languages
-<div align="center">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</div>
+Antes de mi formación en DAM trabajé en administración, hostelería y atención al cliente, con experiencia en Aena, un hotel en Irlanda y El Corte Inglés.  
+CV administrativo: pendiente de añadir enlace público.
 
-### ⚙️ Backend
-<div align="center">
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/API_REST-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white"/>
-<img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white"/>
-</div>
+</details>
 
-### 🗄 Bases de Datos | Databases
-<div align="center">
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-</div>
-
-### 🌐 Desarrollo Web | Web Development
-<div align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white"/>
-</div>
-
-### 🧪 Testing
-<div align="center">
-<img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
-<img src="https://img.shields.io/badge/Testcontainers-25A162?style=for-the-badge"/>
-</div>
-
-### 🐳 DevOps & Herramientas | Tools
-<div align="center">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
-<img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white"/>
-</div>
-
----
-
-## 🚀 Enfoque Actual | Current Focus
-
-**ES:**
-- Desarrollo backend con Java, Spring Boot y POO
-- Diseño e integración de bases de datos (SQL / NoSQL)
-- Testing de APIs y validaciones E2E
-- Buenas prácticas con Git, CI/CD y control de versiones
-
-**EN:**
-- Backend development with Java, Spring Boot and OOP
-- Database design and integration (SQL / NoSQL)
-- API testing and E2E validation
-- Git, CI/CD and version control best practices
-
----
-
-## 🎯 Objetivo Profesional | Career Objective
-
-**ES:**
-Incorporarme como desarrolladora backend junior o en automatización de QA donde pueda aportar código estructurado, seguir creciendo técnicamente y contribuir en proyectos reales, preferiblemente en remoto o híbrido. Abierta a trasladarme fuera de Mallorca con apoyo de la empresa en la reubicación.
-
-**EN:**
-To secure a junior backend developer or QA automation position where I can contribute structured, maintainable code while continuing to grow technically, ideally remote or hybrid. Open to relocating outside Mallorca with relocation support from the company.
-
----
-
-## 📩 Contacto | Contact
-
-<div align="center">
-<a href="mailto:agramontecampos01@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/maragramonte/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/maragramonte" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</div>
+Me gusta aprender herramientas nuevas y convertir problemas cotidianos en soluciones que se puedan probar y mantener.
