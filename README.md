@@ -62,7 +62,11 @@ También trabajo con Git, HTML, CSS, XML, SQLite, DBeaver y Docker Compose. Cono
 
 ## Contacto
 
-[LinkedIn](https://www.linkedin.com/in/maragramonte/) · [Portfolio](https://maragramonte.github.io/mi-portfolio/) · [Email](mailto:agramontecampos01@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/maragramonte/"><img src="https://img.shields.io/badge/LinkedIn-Ver_perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ver perfil de LinkedIn"></a>
+  <a href="mailto:agramontecampos01@gmail.com"><img src="https://img.shields.io/badge/Email-Escríbeme-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar un email"></a>
+  <a href="https://maragramonte.github.io/mi-portfolio/"><img src="https://img.shields.io/badge/Portfolio-Ver_proyectos-176B5B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visitar mi portfolio"></a>
+</p>
 
 CV técnico: pendiente de añadir enlace público.
 
