@@ -48,6 +48,8 @@ Web real para una farmacia. Un generador en Python crea 190 páginas en tres idi
 
 ### [Portfolio](https://maragramonte.github.io/mi-portfolio/)
 
+<p align="center"><a href="https://maragramonte.github.io/mi-portfolio/"><img src="assets/projects/portfolio.jpg" alt="Portada del portfolio de Mar Agramonte con la columna lateral y la sección Sobre mí" width="900"></a></p>
+
 Portfolio personal desarrollado con React y Vite, con diseño adaptable y temas claro y oscuro.
 
 ## Experiencia
