@@ -1,15 +1,21 @@
-<p align="center">
-  <img src="assets/banner.jpg" alt="Catedral de Mallorca" width="100%">
-</p>
-
 <h1 align="center">Mar Agramonte</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=5000&pause=1800&color=2563EB&center=true&vCenter=true&width=650&height=40&cursor=false&lines=Backend+con+Java+y+Spring+Boot;QA+con+400+h+en+entornos+reales;Del+mostrador+al+backend" alt="Backend con Java y Spring Boot · QA con 400 h en entornos reales · Del mostrador al backend">
+  <b>Desarrolladora backend junior y QA Automation</b><br>
+  Construyo servicios con Java y Spring Boot, y automatizo pruebas con Python.<br>
+  Palma de Mallorca · Remoto o híbrido · Incorporación inmediata
 </p>
 
-Desarrolladora backend junior y QA Automation: construyo servicios con Java y Spring Boot, y automatizo pruebas con Python.  
-Busco oportunidades en Palma de Mallorca o en remoto.
+<p align="center">
+  <a href="https://www.linkedin.com/in/maragramonte/"><img src="https://img.shields.io/badge/LinkedIn-Ver_perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ver perfil de LinkedIn"></a>
+  <a href="mailto:agramontecampos01@gmail.com"><img src="https://img.shields.io/badge/Email-Escríbeme-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar un email"></a>
+  <a href="https://maragramonte.github.io/mi-portfolio/"><img src="https://img.shields.io/badge/Portfolio-Ver_proyectos-176B5B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visitar mi portfolio"></a>
+  <a href="https://maragramonte.github.io/mi-portfolio/cv-mar-agramonte-es.pdf"><img src="https://img.shields.io/badge/CV-Descargar_PDF-374151?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Descargar CV en PDF"></a>
+</p>
+
+<p align="center">
+  <img src="assets/banner.jpg" alt="Catedral de Mallorca" width="100%">
+</p>
 
 ## Del mostrador al backend
 
@@ -81,13 +87,12 @@ También trabajo con Git, HTML, CSS, XML, SQLite, DBeaver y Docker Compose. Cono
   <a href="https://maragramonte.github.io/mi-portfolio/"><img src="https://img.shields.io/badge/Portfolio-Ver_proyectos-176B5B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visitar mi portfolio"></a>
 </p>
 
-CV técnico: pendiente de añadir enlace público.
+[CV técnico en PDF](https://maragramonte.github.io/mi-portfolio/cv-mar-agramonte-es.pdf) · [English version](https://maragramonte.github.io/mi-portfolio/cv-mar-agramonte-en.pdf)
 
 <details>
 <summary>Trayectoria anterior</summary>
 
-Antes de mi formación en DAM trabajé en administración, hostelería y atención al cliente, con experiencia en Aena, un hotel en Irlanda y El Corte Inglés.  
-CV administrativo: pendiente de añadir enlace público.
+Antes de mi formación en DAM trabajé en administración, hostelería y atención al cliente, con experiencia en Aena, un hotel en Irlanda y El Corte Inglés.
 
 </details>
 
