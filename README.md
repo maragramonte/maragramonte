@@ -19,7 +19,7 @@
 
 ## Del mostrador al backend
 
-Tras trabajar en administración, hostelería y atención al cliente —incluido un hotel en Irlanda—, me formé en DAM en CESUR (2024–2026). Esa experiencia me ayuda a entender a los usuarios, comunicarme con claridad y trabajar bajo presión. En Marlink Group completé 400 horas de prácticas en pruebas de API y E2E y automatización con Python.
+Trabajé en administración, hostelería y atención al cliente, también en un hotel en Irlanda, antes de estudiar DAM en CESUR (2024–2026). De esos años me quedo con el trato con la gente y con saber trabajar con prisa. En Marlink Group hice 400 horas de prácticas probando APIs, validando flujos E2E y automatizando consultas con Python.
 
 ## Proyectos
 
@@ -60,10 +60,10 @@ Portfolio personal desarrollado con React y Vite, con diseño adaptable y temas 
 
 ## Experiencia
 
-**Marlink Group (OmniAccess) · Prácticas de desarrollo y QA** — ene–mar 2026 · 400 h  
+**Marlink Group (OmniAccess) · Prácticas de desarrollo y QA** · ene–mar 2026 · 400 h  
 Pruebas de API y E2E, scripts Python para consultar SQL y MongoDB en Docker, y trabajo con SAFe, Jira y Confluence.
 
-**GladToLink · Prácticas de consultoría tecnológica** — feb 2025 · 100 h  
+**GladToLink · Prácticas de consultoría tecnológica** · feb 2025 · 100 h  
 Maquetación de formularios XML y desarrollo de interacciones con Java para procesos de digitalización.
 
 ## Stack
@@ -95,5 +95,3 @@ También trabajo con Git, HTML, CSS, XML, SQLite, DBeaver y Docker Compose. Cono
 Antes de mi formación en DAM trabajé en administración, hostelería y atención al cliente, con experiencia en Aena, un hotel en Irlanda y El Corte Inglés.
 
 </details>
-
-Me gusta aprender herramientas nuevas y convertir problemas cotidianos en soluciones que se puedan probar y mantener.
