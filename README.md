@@ -10,7 +10,8 @@
   <a href="https://www.linkedin.com/in/maragramonte/"><img src="https://img.shields.io/badge/LinkedIn-Ver_perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ver perfil de LinkedIn"></a>
   <a href="mailto:agramontecampos01@gmail.com"><img src="https://img.shields.io/badge/Email-Escríbeme-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar un email"></a>
   <a href="https://maragramonte.github.io/mi-portfolio/"><img src="https://img.shields.io/badge/Portfolio-Ver_proyectos-176B5B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visitar mi portfolio"></a>
-  <a href="https://maragramonte.github.io/mi-portfolio/cv-mar-agramonte-es.pdf"><img src="https://img.shields.io/badge/CV-Descargar_PDF-374151?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Descargar CV en PDF"></a>
+  <a href="assets/cv/cv-mar-agramonte-es-ats.pdf"><img src="https://img.shields.io/badge/CV-Español_(PDF)-374151?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Descargar CV en español (PDF)"></a>
+  <a href="assets/cv/cv-mar-agramonte-en-ats.pdf"><img src="https://img.shields.io/badge/CV-English_(PDF)-374151?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Download CV in English (PDF)"></a>
 </p>
 
 <p align="center">
@@ -87,7 +88,7 @@ También trabajo con Git, HTML, CSS, XML, SQLite, DBeaver y Docker Compose. Cono
   <a href="https://maragramonte.github.io/mi-portfolio/"><img src="https://img.shields.io/badge/Portfolio-Ver_proyectos-176B5B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visitar mi portfolio"></a>
 </p>
 
-[CV técnico en PDF](https://maragramonte.github.io/mi-portfolio/cv-mar-agramonte-es.pdf) · [English version](https://maragramonte.github.io/mi-portfolio/cv-mar-agramonte-en.pdf)
+[CV en español (PDF)](assets/cv/cv-mar-agramonte-es-ats.pdf) · [CV in English (PDF)](assets/cv/cv-mar-agramonte-en-ats.pdf)
 
 <details>
 <summary>Trayectoria anterior</summary>
