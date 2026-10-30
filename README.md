@@ -67,6 +67,13 @@ Pruebas de API y E2E, scripts Python para consultar SQL y MongoDB en Docker, y t
 **GladToLink · Prácticas de consultoría tecnológica** · feb 2025 · 100 h  
 Maquetación de formularios XML y desarrollo de interacciones con Java para procesos de digitalización.
 
+<details>
+<summary>Trayectoria anterior</summary>
+
+Antes de mi formación en DAM trabajé en administración, hostelería y atención al cliente, con experiencia en Aena, un hotel en Irlanda y El Corte Inglés.
+
+</details>
+
 ## Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4169E1?logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?logo=spring&logoColor=white) ![REST](https://img.shields.io/badge/REST-6BA539?logo=openapiinitiative&logoColor=white) ![Flyway](https://img.shields.io/badge/Flyway-CC0200?logo=flyway&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![JUnit](https://img.shields.io/badge/JUnit-25A162?logo=junit5&logoColor=white) ![Testcontainers](https://img.shields.io/badge/Testcontainers-25A162?logo=testcontainers&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![Odoo](https://img.shields.io/badge/Odoo-714B67?logo=odoo&logoColor=white)
@@ -79,20 +86,3 @@ También trabajo con Git, HTML, CSS, XML, SQLite, DBeaver y Docker Compose. Cono
 
 - **Técnica Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** · CESUR · 2024–2026
 - Español y catalán: nativos · Inglés: B2 (experiencia laboral en Irlanda)
-
-## Contacto
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/maragramonte/"><img src="https://img.shields.io/badge/LinkedIn-Ver_perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ver perfil de LinkedIn"></a>
-  <a href="mailto:agramontecampos01@gmail.com"><img src="https://img.shields.io/badge/Email-Escríbeme-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar un email"></a>
-  <a href="https://maragramonte.github.io/mi-portfolio/"><img src="https://img.shields.io/badge/Portfolio-Ver_proyectos-176B5B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visitar mi portfolio"></a>
-</p>
-
-[CV en español (PDF)](assets/cv/cv-mar-agramonte-es-ats.pdf) · [CV in English (PDF)](assets/cv/cv-mar-agramonte-en-ats.pdf)
-
-<details>
-<summary>Trayectoria anterior</summary>
-
-Antes de mi formación en DAM trabajé en administración, hostelería y atención al cliente, con experiencia en Aena, un hotel en Irlanda y El Corte Inglés.
-
-</details>
