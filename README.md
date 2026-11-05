@@ -38,16 +38,20 @@ API que convierte una foto en una paleta de color lista para una web: HEX, RGB, 
 
 - Modo `vivos`: ignora sombras y ruido y ordena por saturación, para no perder el color que da sentido a la foto.
 - Límites por IP con Bucket4j, semáforo de análisis y errores en ProblemDetail.
-- 77 pruebas, Docker y despliegue continuo en GitHub Pages.
+- 98 pruebas, Docker y despliegue continuo en GitHub Pages.
 - [Demo](https://maragramonte.github.io/photo-palette/)
 
 ### [Farmàcia Agramonte](https://github.com/maragramonte/Farmacia-Agramonte)
 
 <p align="center"><a href="https://maragramonte.github.io/Farmacia-Agramonte/"><img src="assets/projects/farmacia-agramonte.jpg" alt="Página principal de Farmàcia Agramonte" width="900"></a></p>
 
-Web real para una farmacia. Un generador en Python crea 190 páginas en tres idiomas; incluye importación de catálogo desde CSV y trabajo de SEO técnico.
+Web real para una farmacia. Un generador en Python crea 143 de sus 154 páginas, en tres idiomas; incluye importación de catálogo desde CSV y trabajo de SEO técnico.
 
 - [Web](https://maragramonte.github.io/Farmacia-Agramonte/)
+
+### [Proyectos de clase](https://github.com/maragramonte/proyectos-dam)
+
+Una selección de lo que hice en DAM: tres simulaciones de concurrencia en Java, con hilos, semáforos y sockets, y una app Android de tareas en Kotlin con SQLite.
 
 ## Experiencia
 
