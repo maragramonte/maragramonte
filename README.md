@@ -41,9 +41,9 @@ API que convierte una foto en una paleta de color lista para una web: HEX, RGB, 
 - 98 pruebas, Docker y despliegue continuo en GitHub Pages.
 - [Demo](https://maragramonte.github.io/photo-palette/)
 
-### [Farmàcia Agramonte](https://github.com/maragramonte/Farmacia-Agramonte)
+### [Farmacia Agramonte](https://github.com/maragramonte/Farmacia-Agramonte)
 
-<p align="center"><a href="https://maragramonte.github.io/Farmacia-Agramonte/"><img src="assets/projects/farmacia-agramonte.jpg" alt="Página principal de Farmàcia Agramonte" width="900"></a></p>
+<p align="center"><a href="https://maragramonte.github.io/Farmacia-Agramonte/"><img src="assets/projects/farmacia-agramonte.jpg" alt="Página principal de Farmacia Agramonte" width="900"></a></p>
 
 Web real para una farmacia. Un generador en Python crea 143 de sus 154 páginas, en tres idiomas; incluye importación de catálogo desde CSV y trabajo de SEO técnico.
 
