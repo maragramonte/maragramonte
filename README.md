@@ -2,8 +2,8 @@
 
 <p align="center">
   <b>Desarrolladora backend junior y QA Automation</b><br>
-  Construyo servicios con Java y Spring Boot, y automatizo pruebas con Python.<br>
-  Palma de Mallorca · Remoto o híbrido · Incorporación inmediata
+  Construyo servicios con Java y Spring Boot, y los pruebo con JUnit, Testcontainers y pytest.<br>
+  Palma de Mallorca · Presencial, híbrido o remoto · Incorporación inmediata
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@ Trabajé en administración, hostelería y atención al cliente, en Aena, El Cor
 
 Aplicación de citas para un internista en Palma. Backend con Java 21, Spring Boot 3.5, PostgreSQL, JWT y Flyway. El bloqueo pesimista y una prueba de concurrencia protegen la reserva de cada cita.
 
-- 115 pruebas unitarias, de API y con Testcontainers.
+- 128 pruebas unitarias, de API y con Testcontainers, y 5 E2E con Playwright.
 - Integración continua con GitHub Actions.
 - [Demo](https://maragramonte.github.io/dr-agramonte/)
 
@@ -38,14 +38,15 @@ API que convierte una foto en una paleta de color lista para una web: HEX, RGB, 
 
 - Modo `vivos`: ignora sombras y ruido y ordena por saturación, para no perder el color que da sentido a la foto.
 - Límites por IP con Bucket4j, semáforo de análisis y errores en ProblemDetail.
-- 98 pruebas, Docker y despliegue continuo en GitHub Pages.
+- 98 pruebas y JaCoCo con un suelo de cobertura en el CI.
+- Imagen Docker en GHCR, API en Render y web en GitHub Pages.
 - [Demo](https://maragramonte.github.io/photo-palette/)
 
 ### [Farmacia Agramonte](https://github.com/maragramonte/Farmacia-Agramonte)
 
 <p align="center"><a href="https://maragramonte.github.io/Farmacia-Agramonte/"><img src="assets/projects/farmacia-agramonte.jpg" alt="Página principal de Farmacia Agramonte" width="900"></a></p>
 
-Web real para una farmacia. Un generador en Python crea 143 de sus 154 páginas, en tres idiomas; incluye importación de catálogo desde CSV y trabajo de SEO técnico.
+Web para una farmacia de barrio real. Un generador en Python crea 143 de sus 154 páginas, en tres idiomas, a partir de JSON. El catálogo se importa desde CSV y 218 tests de pytest vigilan el generador, el importador y los enlaces.
 
 - [Web](https://maragramonte.github.io/Farmacia-Agramonte/)
 
@@ -67,7 +68,7 @@ Maquetación de formularios XML y desarrollo de interacciones con Java para proc
 
 También trabajo con SQL, MySQL, MongoDB, SQLite, APIs REST, JavaScript, HTML, CSS, XML, Git, Linux, Docker Compose, DBeaver y Odoo. Conozco Scrum, Kanban y SAFe; he utilizado Jira y Confluence.
 
-**Aprendiendo ahora:** Playwright, para ampliar mi práctica de automatización de pruebas.
+**Aprendiendo ahora:** Playwright. Ya cubre la reserva sin cuenta de Dr. Agramonte; me falta el resto de flujos.
 
 ## Formación e idiomas
 
