@@ -3,7 +3,7 @@
 <p align="center">
   <b>Desarrolladora backend junior y QA Automation</b><br>
   Construyo servicios con Java y Spring Boot, y los pruebo con JUnit, Testcontainers y pytest.<br>
-  Palma de Mallorca · Presencial, híbrido o remoto · Incorporación inmediata
+  Palma de Mallorca · Presencial o híbrido, remoto o reubicación · Incorporación inmediata
 </p>
 
 <p align="center">
