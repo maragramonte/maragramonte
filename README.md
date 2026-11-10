@@ -28,6 +28,7 @@ Aplicación de citas para un internista en Palma. Backend con Java 21, Spring Bo
 
 - 128 pruebas unitarias, de API y con Testcontainers, y 5 E2E con Playwright.
 - Integración continua con GitHub Actions.
+- Revisor automático de PRs con la API de Claude, escrito en Python y con 15 pruebas. Se activa con una clave de API.
 - [Demo](https://maragramonte.github.io/dr-agramonte/)
 
 ### [Photo Palette](https://github.com/maragramonte/photo-palette)
