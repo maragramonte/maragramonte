@@ -25,7 +25,7 @@ Trabajé en administración, hostelería y atención al cliente, en Aena, El Cor
 
 Aplicación de citas para un internista en Palma. Backend con Java 21, Spring Boot 3.5, PostgreSQL, JWT y Flyway. El bloqueo pesimista y una prueba de concurrencia protegen la reserva de cada cita.
 
-- 128 pruebas unitarias, de API y con Testcontainers, y 5 E2E con Playwright.
+- 128 pruebas unitarias, de API y con Testcontainers, y 47 E2E con Playwright, con axe-core para la accesibilidad.
 - Integración continua con GitHub Actions.
 - Revisor automático de PRs con la API de Claude, escrito en Python y con 15 pruebas. Se activa con una clave de API.
 - [Demo](https://maragramonte.github.io/dr-agramonte/)
