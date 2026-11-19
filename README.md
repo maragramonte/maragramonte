@@ -10,8 +10,7 @@
   <a href="https://www.linkedin.com/in/maragramonte/"><img src="https://img.shields.io/badge/LinkedIn-Ver_perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ver perfil de LinkedIn"></a>
   <a href="mailto:agramontecampos01@gmail.com"><img src="https://img.shields.io/badge/Email-Escríbeme-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar un email"></a>
   <a href="https://maragramonte.github.io/mi-portfolio/"><img src="https://img.shields.io/badge/Portfolio-Ver_proyectos-176B5B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visitar mi portfolio"></a>
-  <a href="assets/cv/cv-mar-agramonte-es-ats.pdf"><img src="https://img.shields.io/badge/CV-Español_(PDF)-374151?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Descargar CV en español (PDF)"></a>
-  <a href="assets/cv/cv-mar-agramonte-en-ats.pdf"><img src="https://img.shields.io/badge/CV-English_(PDF)-374151?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Download CV in English (PDF)"></a>
+  <a href="https://maragramonte.github.io/mi-portfolio/#contacto"><img src="https://img.shields.io/badge/CV-Pídemelo-374151?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Pedir mi CV desde el portfolio"></a>
 </p>
 
 ## Del mostrador al backend
@@ -26,7 +25,7 @@ Trabajé en administración, hostelería y atención al cliente, en Aena, El Cor
 
 Aplicación de citas para un internista en Palma. Backend con Java 21, Spring Boot 3.5, PostgreSQL, JWT y Flyway. El bloqueo pesimista y una prueba de concurrencia protegen la reserva de cada cita.
 
-- 128 pruebas unitarias, de API y con Testcontainers, y 5 E2E con Playwright.
+- 128 pruebas unitarias, de API y con Testcontainers, y 47 E2E con Playwright, con axe-core para la accesibilidad.
 - Integración continua con GitHub Actions.
 - Revisor automático de PRs con la API de Claude, escrito en Python y con 15 pruebas. Se activa con una clave de API.
 - [Demo](https://maragramonte.github.io/dr-agramonte/)
