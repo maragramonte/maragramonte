@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/maragramonte/"><img src="https://img.shields.io/badge/LinkedIn-Ver_perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ver perfil de LinkedIn"></a>
   <a href="mailto:agramontecampos01@gmail.com"><img src="https://img.shields.io/badge/Email-Escríbeme-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar un email"></a>
   <a href="https://maragramonte.github.io/mi-portfolio/"><img src="https://img.shields.io/badge/Portfolio-Ver_proyectos-176B5B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visitar mi portfolio"></a>
-  <a href="https://maragramonte.github.io/mi-portfolio/#contacto"><img src="https://img.shields.io/badge/CV-Pídemelo-374151?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Pedir mi CV desde el portfolio"></a>
+  <a href="https://forms.gle/dUs98Lvra13gpzT97"><img src="https://img.shields.io/badge/CV-Pídemelo-374151?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Pedir mi CV con un formulario"></a>
 </p>
 
 ## Del mostrador al backend
