@@ -32,7 +32,7 @@ Aplicación de citas para un internista en Palma. Backend con Java 21, Spring Bo
 
 ### [Photo Palette](https://github.com/maragramonte/photo-palette)
 
-<p align="center"><a href="https://maragramonte.github.io/photo-palette/"><img src="assets/projects/photo-palette.jpg" alt="Portada de Photo Palette con la zona para subir una foto y el feed de paletas" width="900"></a></p>
+<p align="center"><a href="https://maragramonte.github.io/photo-palette/"><img src="assets/projects/photo-palette.jpg" alt="Portada de Photo Palette: la foto de un eclipse con una regla de color que mide lo que ocupa cada tono, y debajo sus colores vivos" width="900"></a></p>
 
 API que convierte una foto en una paleta de color lista para una web: HEX, RGB, porcentaje y un bloque `:root` para copiar. Java 21 y Spring Boot 3.5, con k-means escrito a mano y la foto analizada en memoria, sin guardarse.
 
