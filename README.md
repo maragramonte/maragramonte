@@ -25,7 +25,7 @@ Trabajé en administración, hostelería y atención al cliente, en Aena, El Cor
 
 Aplicación de citas para un internista en Palma. Backend con Java 21, Spring Boot 3.5, PostgreSQL, JWT y Flyway. El bloqueo pesimista y una prueba de concurrencia protegen la reserva de cada cita.
 
-- 128 pruebas unitarias, de API y con Testcontainers, y 47 E2E con Playwright, con axe-core para la accesibilidad.
+- 138 pruebas unitarias, de API y con Testcontainers, y 47 E2E con Playwright, con axe-core para la accesibilidad.
 - Integración continua con GitHub Actions.
 - Revisor automático de PRs con la API de Claude, escrito en Python y con 15 pruebas. Se activa con una clave de API.
 - [Demo](https://maragramonte.github.io/dr-agramonte/)
@@ -67,8 +67,6 @@ Maquetación de formularios XML y desarrollo de interacciones con Java para proc
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?logo=spring&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![Flyway](https://img.shields.io/badge/Flyway-CC0200?logo=flyway&logoColor=white) ![JUnit](https://img.shields.io/badge/JUnit-25A162?logo=junit5&logoColor=white) ![Testcontainers](https://img.shields.io/badge/Testcontainers-25A162?logo=testcontainers&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
 También trabajo con SQL, MySQL, MongoDB, SQLite, APIs REST, JavaScript, HTML, CSS, XML, Git, Linux, Docker Compose, DBeaver y Odoo. Conozco Scrum, Kanban y SAFe; he utilizado Jira y Confluence.
-
-**Aprendiendo ahora:** Playwright. Ya cubre la reserva sin cuenta de Dr. Agramonte; me falta el resto de flujos.
 
 ## Formación e idiomas
 
