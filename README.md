@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/maragramonte/"><img src="https://img.shields.io/badge/LinkedIn-Ver_perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ver perfil de LinkedIn"></a>
   <a href="mailto:agramontecampos01@gmail.com"><img src="https://img.shields.io/badge/Email-Escríbeme-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar un email"></a>
-  <a href="https://maragramonte.github.io/mi-portfolio/"><img src="https://img.shields.io/badge/Portfolio-Ver_proyectos-176B5B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visitar mi portfolio"></a>
+  <a href="https://maragramonte.com/"><img src="https://img.shields.io/badge/Portfolio-Ver_proyectos-176B5B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visitar mi portfolio"></a>
   <a href="https://forms.gle/dUs98Lvra13gpzT97"><img src="https://img.shields.io/badge/CV-Pídemelo-374151?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Pedir mi CV con un formulario"></a>
 </p>
 
@@ -21,34 +21,34 @@ Trabajé en administración, hostelería y atención al cliente, en Aena, El Cor
 
 ### [Dr. Agramonte](https://github.com/maragramonte/dr-agramonte)
 
-<p align="center"><a href="https://maragramonte.github.io/dr-agramonte/"><img src="assets/projects/dr-agramonte.jpg" alt="Página de inicio y agenda de reservas de Dr. Agramonte" width="900"></a></p>
+<p align="center"><a href="https://demo-dragramonte.maragramonte.com/"><img src="assets/projects/dr-agramonte.jpg" alt="Página de inicio y agenda de reservas de Dr. Agramonte" width="900"></a></p>
 
 Aplicación de citas para un internista en Palma. Backend con Java 21, Spring Boot 3.5, PostgreSQL, JWT y Flyway. El bloqueo pesimista y una prueba de concurrencia protegen la reserva de cada cita.
 
 - 138 pruebas unitarias, de API y con Testcontainers, y 47 E2E con Playwright, con axe-core para la accesibilidad.
 - Integración continua con GitHub Actions.
 - Revisor automático de PRs con la API de Claude, escrito en Python y con 15 pruebas. Se activa con una clave de API.
-- [Demo](https://maragramonte.github.io/dr-agramonte/)
+- [Demo](https://demo-dragramonte.maragramonte.com/)
 
 ### [Photo Palette](https://github.com/maragramonte/photo-palette)
 
-<p align="center"><a href="https://maragramonte.github.io/photo-palette/"><img src="assets/projects/photo-palette.jpg" alt="Portada de Photo Palette: la foto de un eclipse con una regla de color que mide lo que ocupa cada tono, y debajo sus colores vivos" width="900"></a></p>
+<p align="center"><a href="https://paleta.maragramonte.com/"><img src="assets/projects/photo-palette.jpg" alt="Portada de Photo Palette: la foto de un eclipse con una regla de color que mide lo que ocupa cada tono, y debajo sus colores vivos" width="900"></a></p>
 
 API que convierte una foto en una paleta de color lista para una web: HEX, RGB, porcentaje y un bloque `:root` para copiar. Java 21 y Spring Boot 3.5, con k-means escrito a mano y la foto analizada en memoria, sin guardarse.
 
 - Modo `vivos`: ignora sombras y ruido y ordena por saturación, para no perder el color que da sentido a la foto.
 - Límites por IP con Bucket4j, semáforo de análisis y errores en ProblemDetail.
 - 98 pruebas y JaCoCo con un suelo de cobertura en el CI.
-- Imagen Docker en GHCR, API en Render y web en GitHub Pages.
-- [Demo](https://maragramonte.github.io/photo-palette/)
+- Imagen Docker en GHCR y web en GitHub Pages. La API se está mudando a un servidor propio.
+- [Demo](https://paleta.maragramonte.com/)
 
 ### [Farmacia Agramonte](https://github.com/maragramonte/Farmacia-Agramonte)
 
-<p align="center"><a href="https://maragramonte.github.io/Farmacia-Agramonte/"><img src="assets/projects/farmacia-agramonte.jpg" alt="Página principal de Farmacia Agramonte" width="900"></a></p>
+<p align="center"><a href="https://farmacia.maragramonte.com/"><img src="assets/projects/farmacia-agramonte.jpg" alt="Página principal de Farmacia Agramonte" width="900"></a></p>
 
 Web para una farmacia de barrio real. Un generador en Python crea 143 de sus 154 páginas, en tres idiomas, a partir de JSON. El catálogo se importa desde CSV y 218 tests de pytest vigilan el generador, el importador y los enlaces.
 
-- [Web](https://maragramonte.github.io/Farmacia-Agramonte/)
+- [Web](https://farmacia.maragramonte.com/)
 
 ### [Proyectos de clase](https://github.com/maragramonte/proyectos-dam)
 
