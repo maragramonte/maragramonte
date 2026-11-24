@@ -1,8 +1,8 @@
 <h1 align="center">Mar Agramonte</h1>
 
 <p align="center">
-  <b>Desarrolladora backend junior y QA Automation</b><br>
-  Construyo servicios con Java y Spring Boot, y los pruebo con JUnit, Testcontainers y pytest.<br>
+  <b>QA Automation y Backend Java</b><br>
+  Spring Boot · PostgreSQL · Docker · Playwright · Testing de APIs · 400 h de QA en Marlink<br>
   Palma de Mallorca · Presencial o híbrido, remoto o reubicación · Incorporación inmediata
 </p>
 
@@ -15,7 +15,11 @@
 
 ## Del mostrador al backend
 
-Trabajé en administración, hostelería y atención al cliente, en Aena, El Corte Inglés y un hotel en Irlanda, antes de estudiar DAM en CESUR (2024–2026). De esos años me quedo con el trato con la gente y con saber trabajar con prisa. En Marlink Group hice 400 horas de prácticas probando APIs, validando flujos E2E y automatizando consultas con Python.
+Dos pacientes intentan reservar la misma hora a la vez. Solo uno la consigue y el otro recibe un aviso claro. Eso lo programé yo y lo probé contra una base de datos real.
+
+Vengo de la administración, la recepción y la atención al cliente, y me titulé en DAM en CESUR Mallorca (2024–2026). Se nota cuando programo: lo primero que pienso es quién va a usar esto y qué se le puede romper.
+
+Busco mi primer puesto como QA Automation o desarrolladora backend con Java 21 y Spring Boot. Dejo cada decisión técnica por escrito, con la alternativa que descarté. Uso la IA a diario, pero nada de lo que propone entra sin pruebas.
 
 ## Proyectos
 
@@ -23,32 +27,44 @@ Trabajé en administración, hostelería y atención al cliente, en Aena, El Cor
 
 <p align="center"><a href="https://demo-dragramonte.maragramonte.com/"><img src="assets/projects/dr-agramonte.jpg" alt="Página de inicio y agenda de reservas de Dr. Agramonte" width="900"></a></p>
 
-Aplicación de citas para un internista en Palma. Backend con Java 21, Spring Boot 3.5, PostgreSQL, JWT y Flyway. El bloqueo pesimista y una prueba de concurrencia protegen la reserva de cada cita.
+App de citas para un internista de Palma. Los pacientes reservan, cambian y cancelan su cita desde el móvil, sin llamar. Backend con Java 21, Spring Boot 3.5, PostgreSQL, JWT y Flyway. El bloqueo pesimista en PostgreSQL evita las reservas dobles, y una prueba de concurrencia lo demuestra.
 
-- 138 pruebas unitarias, de API y con Testcontainers, y 47 E2E con Playwright, con axe-core para la accesibilidad.
-- Integración continua con GitHub Actions.
-- Revisor automático de PRs con la API de Claude, escrito en Python y con 15 pruebas. Se activa con una clave de API.
-- [Demo](https://demo-dragramonte.maragramonte.com/)
+- 138 pruebas de backend (unitarias, de API y con Testcontainers) y 47 E2E con Playwright, con axe-core para la accesibilidad.
+- CI con GitHub Actions en cada push.
+- Revisor de pull requests en Python que usa la API de Claude, con 15 pruebas propias. Se activa con una clave de API.
+- [Demo](https://demo-dragramonte.maragramonte.com/), con datos ficticios.
 
 ### [Photo Palette](https://github.com/maragramonte/photo-palette)
 
 <p align="center"><a href="https://paleta.maragramonte.com/"><img src="assets/projects/photo-palette.jpg" alt="Portada de Photo Palette: la foto de un eclipse con una regla de color que mide lo que ocupa cada tono, y debajo sus colores vivos" width="900"></a></p>
 
-API que convierte una foto en una paleta de color lista para una web: HEX, RGB, porcentaje y un bloque `:root` para copiar. Java 21 y Spring Boot 3.5, con k-means escrito a mano y la foto analizada en memoria, sin guardarse.
+Le das una foto y te devuelve sus colores principales, listos para una web: HEX, RGB, porcentaje y un bloque `:root` para copiar. Java 21 y Spring Boot 3.5, con k-means escrito a mano. La foto se analiza en memoria y no se guarda. Nació de mis fotos del cielo de noche: quería sacar sus colores.
 
-- Modo `vivos`: ignora sombras y ruido y ordena por saturación, para no perder el color que da sentido a la foto.
+- Modo `vivos`: ignora sombras y ruido y ordena por saturación, para no perder el color por el que hiciste la foto.
 - Límites por IP con Bucket4j, semáforo de análisis y errores en ProblemDetail.
-- 98 pruebas y JaCoCo con un suelo de cobertura en el CI.
-- Imagen Docker en GHCR y web en GitHub Pages. La API se está mudando a un servidor propio.
-- [Demo](https://paleta.maragramonte.com/)
+- 98 pruebas, con un 97 % de cobertura de líneas. JaCoCo pone un suelo de cobertura en el CI.
+- 21 E2E de la web con Playwright, en escritorio y móvil, con axe-core.
+- Imagen Docker en GHCR, web en GitHub Pages y API en Render.
+- [Pruébala con una foto tuya](https://paleta.maragramonte.com/)
 
 ### [Farmacia Agramonte](https://github.com/maragramonte/Farmacia-Agramonte)
 
 <p align="center"><a href="https://farmacia.maragramonte.com/"><img src="assets/projects/farmacia-agramonte.jpg" alt="Página principal de Farmacia Agramonte" width="900"></a></p>
 
-Web para una farmacia de barrio real. Un generador en Python crea 143 de sus 154 páginas, en tres idiomas, a partir de JSON. El catálogo se importa desde CSV y 218 tests de pytest vigilan el generador, el importador y los enlaces.
+La web de una farmacia de barrio real de El Born, en Barcelona. Los clientes ven el catálogo y mandan su encargo por WhatsApp, en castellano, catalán o inglés. Sin cookies ni frameworks.
 
+- No quería mantener 154 páginas a mano: un generador en Python crea 143 a partir de dos JSON.
+- El catálogo se importa del CSV del programa de gestión.
+- 218 tests de pytest vigilan el generador, el importador y los enlaces.
 - [Web](https://farmacia.maragramonte.com/)
+
+### [Mi portfolio](https://github.com/maragramonte/mi-portfolio)
+
+Mi portfolio con React y Vite, en español e inglés, con tema de día y de noche.
+
+- 59 pruebas E2E en un Chrome real: idioma, tema, navegación, filtros, menú del móvil y accesibilidad con axe-core.
+- En GitHub Actions corren en cada pull request y antes de cada despliegue. Si falla una, no se publica.
+- [Web](https://maragramonte.com/)
 
 ### [Proyectos de clase](https://github.com/maragramonte/proyectos-dam)
 
@@ -56,19 +72,25 @@ Una selección de lo que hice en DAM: tres simulaciones de concurrencia en Java,
 
 ## Experiencia
 
-**Marlink Group (OmniAccess) · Prácticas de desarrollo y QA** · ene–mar 2026 · 400 h  
-Pruebas de API y E2E, scripts Python para consultar SQL y MongoDB en Docker, y trabajo con SAFe, Jira y Confluence.
+**Marlink Group (OmniAccess) · Prácticas de desarrollo y QA** · ene–mar 2026 · 400 h · Parc Bit, Palma  
+- Pruebas funcionales de la API de Ucopia: diseño de casos, reproducción de fallos e informes en Jira.
+- Validación de flujos E2E en entornos simulados y de producción.
+- Scripts en Python para consultar SQL y MongoDB desde Docker sobre WSL.
+- Equipo ágil con SAFe (Daily, Sprint Planning y PI Planning) y documentación en Confluence.
 
 **GladToLink · Prácticas de consultoría tecnológica** · feb 2025 · 100 h  
-Maquetación de formularios XML y desarrollo de interacciones con Java para procesos de digitalización.
+Formularios y maquetación en XML, gestión documental con Adobe y Java para botones e interacciones, en proyectos de digitalización.
+
+**Antes de IT**  
+Cajera en El Corte Inglés (2025), recepción de las salas VIP del aeropuerto de Palma (2024) y un año en The Ardilaun Hotel de Galway, Irlanda, trabajando en inglés (2023–2024). Antes, prácticas de administración y RRHH en Urbia Servicios Integrales y atención al cliente en Natural World Eco (2021). De allí me traje la calma cuando hay prisa.
 
 ## Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?logo=spring&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![Flyway](https://img.shields.io/badge/Flyway-CC0200?logo=flyway&logoColor=white) ![JUnit](https://img.shields.io/badge/JUnit-25A162?logo=junit5&logoColor=white) ![Testcontainers](https://img.shields.io/badge/Testcontainers-25A162?logo=testcontainers&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?logo=spring&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![Flyway](https://img.shields.io/badge/Flyway-CC0200?logo=flyway&logoColor=white) ![JUnit](https://img.shields.io/badge/JUnit-25A162?logo=junit5&logoColor=white) ![Testcontainers](https://img.shields.io/badge/Testcontainers-25A162?logo=testcontainers&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![React](https://img.shields.io/badge/React-149ECA?logo=react&logoColor=white)
 
-También trabajo con SQL, MySQL, MongoDB, SQLite, APIs REST, JavaScript, HTML, CSS, XML, Git, Linux, Docker Compose, DBeaver y Odoo. Conozco Scrum, Kanban y SAFe; he utilizado Jira y Confluence.
+También trabajo con SQL, MySQL, MongoDB, SQLite, APIs REST, JavaScript, HTML, CSS, XML, Git, Linux, WSL, Docker Compose, DBeaver y Odoo. Conozco Scrum, Kanban y SAFe; he utilizado Jira y Confluence.
 
 ## Formación e idiomas
 
-- **Técnica Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** · CESUR · 2024–2026
-- Español y catalán: nativos · Inglés: B2 (experiencia laboral en Irlanda)
+- **Técnica Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** · CESUR Mallorca · 2024–2026
+- Español y catalán: nativos · Inglés: B2 (un año trabajando en Irlanda)
