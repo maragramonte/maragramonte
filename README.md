@@ -1,7 +1,8 @@
-<h1 align="center">Mar Agramonte</h1>
+<p align="center">
+  <img src="assets/banner-noche.png" alt="Mar Agramonte. QA Automation y Backend Java. Del mostrador al backend, Palma de Mallorca. Cielo de noche con la luna sobre la silueta de Palma y la Catedral." width="100%">
+</p>
 
 <p align="center">
-  <b>QA Automation y Backend Java</b><br>
   Spring Boot · PostgreSQL · Docker · Playwright · Testing de APIs · 400 h de QA en Marlink<br>
   Palma de Mallorca · Presencial o híbrido, remoto o reubicación · Incorporación inmediata
 </p>
@@ -11,11 +12,14 @@
   <a href="mailto:agramontecampos01@gmail.com"><img src="https://img.shields.io/badge/Email-Escríbeme-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar un email"></a>
   <a href="https://maragramonte.com/"><img src="https://img.shields.io/badge/Portfolio-Ver_proyectos-176B5B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visitar mi portfolio"></a>
   <a href="https://forms.gle/dUs98Lvra13gpzT97"><img src="https://img.shields.io/badge/CV-Pídemelo-374151?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Pedir mi CV con un formulario"></a>
+  <a href="https://www.instagram.com/m.agramonte_/"><img src="https://img.shields.io/badge/Instagram-Demos_en_vídeo-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Ver demos en vídeo en Instagram"></a>
 </p>
 
 ## Del mostrador al backend
 
 Dos pacientes intentan reservar la misma hora a la vez. Solo uno la consigue y el otro recibe un aviso claro. Eso lo programé yo y lo probé contra una base de datos real.
+
+<p align="center"><img src="assets/concurrencia.gif" alt="Animación: dos pacientes pulsan Reservar a la vez para el martes 2 a las 10:30. PostgreSQL bloquea la fila del horario: A guarda su cita y recibe un 201. B entra después, ve la hora ocupada y recibe un 409 con el aviso «Esa hora se acaba de ocupar». Ninguna reserva doble." width="720"></p>
 
 Vengo de la administración, la recepción y la atención al cliente, y me titulé en DAM en CESUR Mallorca (2024–2026). Se nota cuando programo: lo primero que pienso es quién va a usar esto y qué se le puede romper.
 
